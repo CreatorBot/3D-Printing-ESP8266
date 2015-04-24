@@ -1,1 +1,1 @@
-# 3D-Printing-ESP8266 
+This LUA code and Adapter for ESP8266 provides wireless networking for RepRap 3D printers. No wired connection is required during the print job - just stream your Gcode up to the ESP module’s IP address. 
